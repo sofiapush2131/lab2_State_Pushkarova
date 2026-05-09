@@ -55,7 +55,7 @@ python regex.py
 True
 True
 False
-\```
+```
 
 
 ### Скріншот виконання тестів у терміналі VS Code:
